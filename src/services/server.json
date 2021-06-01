@@ -1,0 +1,107 @@
+{
+  "city": [
+    {"key": "01", "title":"Espinosa - MG"},
+    {"key": "02", "title":"Itacarambi - MG"},
+    {"key": "03", "title":"Jaiba - MG"},
+    {"key": "04", "title":"Janaúba - MG"},
+    {"key": "05", "title":"Januária - MG"},
+    {"key": "06", "title":"Manga - MG"},
+    {"key": "07", "title":"Matias cardoso - MG"},
+    {"key": "08", "title":"Mato verde - MG"},
+    {"key": "09", "title":"Monte azul - MG"},
+    {"key": "010", "title":"Montes claros - MG"},
+    {"key": "011", "title":"Porteirinha - MG"},
+    {"key": "012", "title":"Verdelandia - MG"}
+  ],
+
+  "providers": [
+    {"key": "locksmith", "title": "Chaveiro"},
+    {"key": "winch", "title": "Guincho"},
+    {"key": "mechanical", "title": "Mecanico"},
+    {"key": "parts", "title": "Casa peças"}
+  ],
+
+  "company": [
+    {
+      "id": 1,
+      "name": "Chaveiro 01",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "locksmith",
+      "city": "Janauba"
+    },
+    {
+      "id": 2,
+      "name": "Chaveiro 02",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "locksmith",
+      "city": "Janauba"
+      
+    },
+    {
+      "id": 3,
+      "name": "Chaveiro 03",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "locksmith",
+      "city": "Janauba"
+    },
+    {
+      "id": 4,
+      "name": "Guincho 01",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "winch",
+      "city": "Janauba"
+    },
+    {
+      "id": 5,
+      "name": "Guincho 02",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "winch",
+      "city": "Janauba"
+    },
+    {
+      "id": 6,
+      "name": "Guincho 03",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "winch",
+      "city": "Janauba"
+    },
+    {
+      "id": 7,
+      "name": "Mecanico 01",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "mechanical",
+      "city": "Janauba"
+    },
+    {
+      "id": 8,
+      "name": "Mecanico 02",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "mechanical",
+      "city": "Janauba"
+    },
+    {
+      "id": 9,
+      "name": "C.pecas 01",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "parts",
+      "city": "Janauba"
+    },
+    {
+      "id": 10,
+      "name": "C.pecas 02",
+      "adress": "R. vai quem quer n. 01",
+      "phone": "(99)9999-99999",
+      "providers": "parts",
+      "city": "Janauba"
+    }
+  ]
+}
